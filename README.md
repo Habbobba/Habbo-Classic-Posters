@@ -3,7 +3,7 @@
 ---
 
 ## 🎨 Overview
-This project brings back the charm of approximately **98 unique poster images** extracted from the legacy `posters.swf` Flash file. With Adobe Flash now retired, these nostalgic posters have been converted into modern `.nitro` files for seamless integration into your catalog system. This guide walks you through the extraction details and integration steps to revive these classics.
+This project brings back the charm of approximately **98 unique poster images** extracted from the legacy `posters.swf` Flash file. With Adobe Flash now retired, these nostalgic posters have been converted into modern `.nitro` files for seamless integration into your catalogue. This guide walks you through the extraction details and integration steps to revive these classics.
 
 ---
 
