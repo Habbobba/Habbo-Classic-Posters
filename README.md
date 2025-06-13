@@ -30,6 +30,7 @@ Follow these steps to integrate the posters into your catalog system:
 ---
 
 ## 📝 Notes
+- **Note**: SQL's are compatible for the "Arcturus Morningstar" emulator.
 - **Testing**: After integration, test the catalog to confirm posters display correctly and are selectable.
 
 ---
